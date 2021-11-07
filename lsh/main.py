@@ -175,3 +175,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# https://engineering.purdue.edu/kak/distLSH/LocalitySensitiveHashing-1.0.1.html
